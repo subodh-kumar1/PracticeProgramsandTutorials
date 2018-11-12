@@ -1,0 +1,80 @@
+ImpPlan classobj = new ImpPlan();
+
+ImpPlanDetails newclassobj = new ImpPlanDetails();
+newclassobj.setPlanStatus("string");
+newclassobj.setPlanStatus("string");
+newclassobj.setPlanStatus("string");
+newclassobj.setPlanStatus("string");
+
+
+
+
+
+
+classobj.setImpPlan("testString",newclassobj);
+
+
+***************date
+
+Date mydate = new Date();
+
+classobj.setfuction(mydate);
+assertEquals(mydDate,classobj.getfunction());
+
+***********************for sending the class as paramter
+
+Impsystem classobj = new Impsystem();
+
+ImpsystemPK newclassobj = new ImpsystemPK();
+ newclassobj.allsetterfunctions here 
+ 
+ classobj.setImpPlanPK(newclassobj);
+ 
+ assertEquals(newclassobj,classobj.getImpPlanPK());
+ 
+ *******************************
+Subodh Kumar
+<script>
+function validateForm() {
+    var x = document.forms["myForm"]["fname"].value;
+    if (x == "") {
+        alert("Name must be filled out");
+        return false;
+    }
+}
+</script>
+12:03 PM
+this is the example for validating name from the form
+12:04 PM
+Subodh Kumar
+12:03 PM
+<script>
+function validateForm() {
+    var x = document.forms["myForm"]["fname"].value;
+    if (x == "") {
+        alert("Name must be filled out");
+        return false;
+    }
+}
+</script>
+this is the example for validating name from the form
+<form id="myForm" onSubmit="return validateForm()">
+      <input type="text" id="fname">
+<button></button>
+</form>
+Subodh Kumar
+12:03 PM
+<script>
+function validateForm() {
+    var x = document.forms["myForm"]["fname"].value;
+    if (x == "") {
+        alert("Name must be filled out");
+        return false;
+    }
+}
+</script>
+this is the example for validating name from the form
+<form id="myForm" onSubmit="return validateForm()">
+      <input type="text" id="fname">
+<button></button>
+</form>
